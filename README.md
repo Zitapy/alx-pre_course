@@ -1,1 +1,3 @@
-My first readme
+My first readme>README.md
+ls
+echo My second readme
