@@ -1,2 +1,1 @@
-#!/bin/bash
-echo "ALX School"
+echo -e '#!/bin/bash/nALX School' > alx
